@@ -1,0 +1,10 @@
+// Contents: __pycache__/
+__pycache__
+
+.pytest_cache
+GeoCalib/
+GeoCalib/Scripts/
+GeoCalib/share
+
+
+```
